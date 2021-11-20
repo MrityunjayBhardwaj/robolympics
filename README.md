@@ -4,7 +4,8 @@ A custom Gym environment built on top of ![pybullet gympherium](https://github.c
 
 # Contributers
 
-* Tithi 
+* Thiti premrudeepreechacharn
+* Maeghal Jain 
 
 
 The final presentation is shared ![here](https://docs.google.com/presentation/d/1Qi71vjvz-PUHHquK8odUEX_e2GAOxmB0lPU7yBK6dvs/edit?usp=sharing)
